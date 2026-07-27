@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15421057795",
+    "project_id": "job-portal-app-ed766",
+    "storage_bucket": "job-portal-app-ed766.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15421057795:android:bd770a2e876522d1c65736",
+        "android_client_info": {
+          "package_name": "com.job_portal.intern_task_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqJ_L0v-4PxyDtQZZILvFrshVRISY6uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
